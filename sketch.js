@@ -79,12 +79,14 @@ let images = [];
 let locked = [];
 let visibility = [];
 
-let imgDescriptions = ["Description 1", 
-                       "Description 2", 
-                       "Description 3", 
-                       "Description 4", 
-                       "Description 5", 
-                       "Description 6"];
+let imgDescriptions = [
+  "Λάδι σε μουσαμά, 75 x 125 εκ. <br> Δωρεά Kathleen Βακαλό <br><br> Αρ. Έργου: Π.10404", 
+  "Λάδι σε μουσαμά, 54,5 x 95 εκ. <br> Δωρεά Kathleen Bακαλό <br><br> Αρ. Έργου: Π.10402", 
+  "Λάδι σε μουσαμά, 85 x 100 εκ. <br> Δωρεά Kathleen Βακαλό <br><br> Αρ. Έργου: Π.10403", 
+  "Λάδι σε μουσαμά, 76,3 x 100 εκ. <br> Από τη σειρά των φεγγαριών, π. 1979 <br><br> Αρ. Έργου: Π.6045", 
+  "Λάδι σε μουσαμά, 50 x 64,5 εκ. <br> Δωρεά Ελένης Βακαλό <br><br> Αρ. Έργου: Π.8975", 
+  "Λάδι σε μουσαμά, 31,5 x 45,5 εκ. <br> Δωρεά Ελένης Βακαλό <br><br> Αρ. Έργου: Π.8974"
+                      ];
 
 let titles = ["Χωρίς τίτλο",
               "Χωρίς τίτλο",
